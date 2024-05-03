@@ -1,0 +1,74 @@
+{
+    "usuarios": [
+      {
+        "Nome": "Rosângela Giovana Fogaça",
+        "cpf": "603.336.951-35",
+        "data_nasc": "12/03/1976",
+        "sexo": "Feminino",
+        "email": "rosangela_giovana_fogaca@achievecidadenova.com.br",
+        "senha": "RxHNj9Cmt7",
+        "cep": "63034-375",
+        "endereco": "Rua Comerciante João Cecé",
+        "numero": 183,
+        "bairro": "Pirajá",
+        "cidade": "Juazeiro do Norte",
+        "estado": "CE" 
+      },
+      {
+        "nome": "Murilo Hugo Nascimento",
+        "cpf": "335.012.989-78",
+        "data_nasc": "09/01/1958",
+        "email": "murilo-nascimento88@eguia.com.br",
+        "senha": "DaxriNFjok",
+        "cep": "69086-768",
+        "endereco": "Rua Alenquer",
+        "numero": 508,
+        "bairro": "Gilberto Mestrinho",
+        "cidade": "Manaus",
+        "estado": "AM"
+      },
+      {
+        "nome": "Kevin Theo Samuel Gonçalves",
+        "cpf": "923.487.188-04",
+        "data_nasc": "07/03/1970",
+        "sexo": "Masculino",
+        "email": "kevin.theo.goncalves@isometro.com.br",
+        "senha": "xkCa7lWSI5",
+        "cep": "13185-905",
+        "endereco": "Rodovia Jornalista Francisco Aguirre Proença 5",
+        "numero": 719,
+        "bairro": "Jardim Nossa Senhora de Fátima",
+        "cidade": "Hortolândia",
+        "estado": "SP"
+      },
+      {
+        "nome": "Cláudio Daniel da Paz",
+        "idade": 53,
+        "cpf": "133.730.976-14",
+        "data_nasc": "03/05/1971",
+        "email": "claudio-dapaz70@sent.com",
+        "senha": "3X5SXAwsWO",
+        "cep": "66010-050",
+        "endereco": "Travessa Frei Gil de Vila Nova",
+        "numero": 924,
+        "bairro": "Campina",
+        "cidade": "Belém",
+        "estado": "PA"
+      },
+      {
+        "nome": "Osvaldo Heitor Assunção",
+        "cpf": "677.996.489-10",
+        "data_nasc": "27/03/1967",
+        "email": "osvaldoheitorassuncao@nhrtaxiaereo.com",
+        "senha": "B0ZBLHsLtc",
+        "cep": "72110-380",
+        "endereco": "Quadra QNA 38",
+        "numero": 505,
+        "bairro": "Taguatinga Norte (Taguatinga)",
+        "cidade": "Brasília",
+        "estado": "DF"
+      }
+    ],
+    
+    "locaisColeta": []
+  }
